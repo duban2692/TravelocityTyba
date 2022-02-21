@@ -1,0 +1,28 @@
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+!travelocity/gradle/wrapper/gradle-wrapper.jar
+
+travelocity/.gradle/
+/bin/
+
+#Eclipse and IntelliJ
+.classpath
+.project
+.settings/
+bin/
+build/
+/travelocity/target/
+/travelocity/out/
+/travelocity/logs/
+/travelocity/*.log
+gradle.properties
+.idea/
+*.iml
+*.iws
+*.bak
+*.orig
+
+target/
